@@ -1,7 +1,7 @@
 "use client";
 import React, { useState, useEffect } from 'react';
 import { useTranslation } from 'react-i18next';
-import { Menu, X, Star, Users, Calendar, Heart, ChevronDown, ChevronUp, Play, MapPin, Phone, Mail, Facebook, Twitter, Instagram, Linkedin, CheckCircle, ArrowRight, BookOpen, Award, Target, Zap, Clock, Shield, Brain, Mountain, Handshake } from 'lucide-react';
+import { Menu, X, Star, Users, Calendar, Heart, ChevronDown, ChevronUp, Play, MapPin, Phone, Mail, Facebook, Twitter, Instagram, Linkedin, CheckCircle, ArrowRight, BookOpen, Award, Target, Zap, Clock, Shield, Brain, Mountain, Handshake, DollarSign, Sparkles } from 'lucide-react';
 import Image from 'next/image';
 import banner from '../../public/mainbanner1.jpg';
 import banner2 from '../../public/banner222.jpg';
@@ -341,6 +341,10 @@ const DivineMentorsLanding = () => {
     {
       question: t('faq.accommodation.question'),
       answer: t('faq.accommodation.answer')
+    },
+    {
+      question: t('faq.accommodation_food.question'),
+      answer: t('faq.accommodation_food.answer')
     }
   ];
 
@@ -674,6 +678,84 @@ const DivineMentorsLanding = () => {
       
    
       <BenefitsSection/>
+      <section className="py-10 bg-gradient-to-br from-[#576F9F] to-[#576F9F]/90 relative overflow-hidden">
+        {/* Decorative background elements */}
+        <div className="absolute inset-0 bg-black/10"></div>
+        <div className="absolute top-0 left-0 w-72 h-72 bg-white/5 rounded-full -translate-x-36 -translate-y-36"></div>
+        <div className="absolute bottom-0 right-0 w-96 h-96 bg-white/5 rounded-full translate-x-48 translate-y-48"></div>
+        
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+          <div className="text-center mb-12">
+            {/* Header */}
+            <div className="mb-8">
+              <h2 className="text-4xl md:text-6xl font-bold text-white mb-4">
+                Only 14 days. Only a few spots.
+              </h2>
+              {/* <h3 className="text-3xl md:text-5xl font-bold text-white mb-4">
+                Only a few spots.
+              </h3> */}
+              <p className="text-xl md:text-2xl text-white/90 font-medium">
+                A lifetime of wisdom - offered in 50 minutes.
+              </p>
+            </div>
+
+            {/* Session Details */}
+            <div className="bg-white/10 backdrop-blur-md rounded-2xl p-8 md:p-12 mb-8 max-w-4xl mx-auto">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 md:gap-8">
+                <div className="flex items-center space-x-4">
+                  <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
+                    <MapPin className="w-6 h-6 text-white" />
+                  </div>
+                  <div className="text-left">
+                    <p className="text-white/80 text-sm font-medium">Location</p>
+                    <p className="text-white text-lg font-semibold">Rüti, Zürich</p>
+                  </div>
+                </div>
+
+                <div className="flex items-center space-x-4">
+                  <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
+                    <Calendar className="w-6 h-6 text-white" />
+                  </div>
+                  <div className="text-left">
+                    <p className="text-white/80 text-sm font-medium">Date</p>
+                    <p className="text-white text-lg font-semibold">Sept 15 - 28</p>
+                  </div>
+                </div>
+
+                <div className="flex items-center space-x-4">
+                  <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
+                    <Clock className="w-6 h-6 text-white" />
+                  </div>
+                  <div className="text-left">
+                    <p className="text-white/80 text-sm font-medium">Duration</p>
+                    <p className="text-white text-lg font-semibold">1:1 session (50 mins)</p>
+                  </div>
+                </div>
+
+                <div className="flex items-center space-x-4">
+                  <div className="w-12 h-12 bg-white/20 rounded-full flex items-center justify-center">
+                    <DollarSign className="w-6 h-6 text-white" />
+                  </div>
+                  <div className="text-left">
+                    <p className="text-white/80 text-sm font-medium">Investment</p>
+                    <p className="text-white text-lg font-semibold">CHF 150 - 300</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* CTA Button */}
+            <button 
+              onClick={() => setIsBookingModalOpen(true)}
+               className="bg-white text-[#576F9F] cursor-pointer px-6 sm:px-8 md:px-12 py-3 sm:py-4 rounded-full text-lg sm:text-xl font-bold hover:bg-[#8ba0ca] hover:text-white border border-[#576F9F] transform hover:scale-105 transition-all duration-300 shadow-2xl w-full sm:w-auto">
+            
+              <span>Reserve Your Spot Now</span>
+            </button>
+
+           
+          </div>
+        </div>
+      </section>
       <section id="contactus" className="relative py-16 bg-cover bg-center bg-no-repeat bg-fixed"
     style={{ backgroundImage: `url('https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1920&h=1080&fit=crop')` }}>
       
@@ -708,7 +790,10 @@ const DivineMentorsLanding = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
             {/* FAQ Section - Left Side (1/2) */}
             <div className="lg:col-span-1 z-50">
-             
+              <div className="mb-6">
+                <h3 className="text-2xl font-bold text-white mb-2">{t('faq.title')}</h3>
+                <p className="text-gray-200">{t('faq.subtitle')}</p>
+              </div>
               
               <div className="space-y-4 p-4 md:p-0">
                 {faqs.map((faq, index) => (

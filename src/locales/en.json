@@ -154,6 +154,8 @@
     "readMore": "Read More"
   },
   "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Divine Mentors",
     "difference": {
       "question": "What is the Divine Mentors event all about?",
       "answer": "This is a rare opportunity to receive one-on-one, in-person guidance from Indian spiritual masters. It’s not a group class or lecture—it’s a private 50-minute session tailored to your inner journey, emotional healing, and energetic realignment."
@@ -177,6 +179,10 @@
     "accommodation": {
       "question": "How do I book my session?",
       "answer": "Simply send a message via WhatsApp at +41 79 795 1817 or visit divinementors.com to view mentor availability and secure your slot."
+    },
+    "accommodation_food": {
+      "question": "Is accommodation or food included in the session fee?",
+      "answer": "No, the fee covers only your 1:1 private session with the mentor. However, our venue in Rüti, Zürich is easily accessible, and we're happy to recommend nearby stays and local vegetarian food options upon request. This is a spiritual experience—not a retreat—so you choose how much time and space you wish to create around your session."
     }
   },
   "pricing": {
@@ -237,23 +243,23 @@
     "description": "This isn't just another event.\n\nThis isn't some feel-good retreat where you sit cross-legged, chant a few mantras, and go back home unchanged.\n\nThis is 14 days. 4 Indian masters.\nEach with decades of experience.\nEach trained in ancient Vedic sciences the West barely touches.\n\nFrom the hidden valleys of the Himalayas to the heart of Zurich - these teachers don't come to entertain.\nThey come to transform."
   },
   "benefits": {
-    "title": "What You'll Gain",
-    "subtitle": "Transform every aspect of your spiritual journey with profound, lasting change",
+    "title": "Why People Are Showing Up - And Why You Should Too",
+    "subtitle": "T",
     "lifePurpose": {
-      "title": "Crystal Clear Life Purpose",
-      "description": "Discover your authentic dharma and align your career, relationships, and daily choices with your soul's true calling through guided self-inquiry and meditation."
+      "title": "You’re not broken. But something feels missing.",
+      "description": "This isn’t therapy. This isn’t coaching.This is ancient knowing - offered heart to heart."
     },
     "emotionalMastery": {
-      "title": "Emotional Mastery & Resilience",
-      "description": "Learn powerful techniques to transform stress, anxiety, and overwhelm into sources of strength and wisdom using ancient emotional alchemy practices."
+      "title": "You’ll sit with someone who sees you.",
+      "description": And start hearing them in the silence.Because the real wisdom? It’s already in you.These mentors just help uncover it.",
     },
     "mentalClarity": {
-      "title": "Enhanced Mental Clarity & Focus",
-      "description": "Develop laser-sharp concentration and decision-making abilities through specialized pranayama and mindfulness techniques proven by neuroscience."
+      "title": "It’s not about fixing you.",
+      "description": " It’s about freeing you.From the loops. The patterns. The weight you thought was yours to hold forever."
     },
     "successAbundance": {
-      "title": "Conscious Success & Abundance",
-      "description": "Integrate spiritual principles with practical success strategies to create wealth and achievement that align with your highest values and purpose."
+      "title": "You’ll remember what peace feels like.",
+      "description": "Not the kind you read about.The kind your nervous system feels."
     },
     "leadership": {
       "title": "Authentic Leadership Presence",

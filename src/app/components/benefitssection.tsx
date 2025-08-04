@@ -74,8 +74,8 @@ const BenefitsSection = () => {
         {/* Header */}
         <div className="text-center mb-16">
           
-          <h2 className="text-5xl font-bold text-gray-900 mb-6">{t('benefits.title')}</h2>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">{t('benefits.subtitle')}</p>
+          <h2 className="text-4xl font-bold text-gray-900 mb-6">{t('benefits.title')}</h2>
+          {/* <p className="text-xl text-gray-600 max-w-2xl mx-auto">{t('benefits.subtitle')}</p> */}
         </div>
 
         {/* Main content layout */}
