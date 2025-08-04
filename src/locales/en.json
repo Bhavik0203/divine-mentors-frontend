@@ -1,0 +1,274 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "mentors": "Mentors",
+    "events": "Events",
+    "blog": "Blog",
+    "contact": "Contact",
+    "contactUs": "Contact Us",
+    "bookNow": "Book Now"
+  },
+  "hero": {
+    "title": "Meet India’s Ancient Masters In Person. In Zurich.",
+    "subtitle": "This September 15 - 28, India’s sacred wisdom keepers arrive for one-on-one sessions that transform your energy and soul.",
+    "description": "50 min · Private · CHF 150 - 300 per session",
+    "cta": "Reserve Your 1:1 Healing Session",
+    "authenticWisdom": "Authentic Spiritual Wisdom"
+  },
+  "painPoints": {
+    "title": "Transform your mindset and unlock your true potential",
+    "subtitle": "Learn ancient wisdom from experienced spiritual mentors",
+    "description": "Build lasting connections with like-minded individuals",
+    "practice": "Develop practical tools for daily spiritual practice",
+    "beliefs": "Overcome limiting beliefs and emotional blockages",
+    "purpose": "Discover your life's purpose and divine calling"
+  },
+  "offerings": {
+    "title": "What We Offer",
+    "authenticGuidance": {
+      "title": "Authentic Spiritual Guidance",
+      "description": "Direct transmission of wisdom through lineage-based mentors with decades of experience in classical Indian traditions."
+    },
+    "personalizedTransformation": {
+      "title": "Personalized Transformation",
+      "description": "Individual assessment of your spiritual journey with customized practices tailored to your unique path of self-discovery."
+    },
+    "scienceBackedMethods": {
+      "title": "Science-Backed Methods",
+      "description": "Proven techniques including pranayama, meditation, and spiritual psychology, validated by clinical research as effective alternatives to traditional approaches."
+    },
+    "modernLifeIntegration": {
+      "title": "Modern Life Integration",
+      "description": "Practical tools for stress management, emotional intelligence, and leadership qualities that seamlessly integrate into your professional and personal life."
+    },
+    "premiumSwissExperience": {
+      "title": "Premium Swiss Experience",
+      "description": "Exclusive setting in Switzerland's breathtaking landscape, ensuring tranquility and focus for profound spiritual work."
+    },
+    "lifelongMentorship": {
+      "title": "Lifelong Mentorship",
+      "description": "Building lasting connections with authentic mentors for continuous guidance and deep transformation on your spiritual journey."
+    }
+  },
+  "mentors": {
+    "title": "Meet Our Divine Mentors",
+    "subtitle": "Learn from masters who have dedicated their lives to spiritual wisdom",
+    "specialty": "Specialty:",
+    "bookSession": "Book Session",
+    "ramBaba": {
+      "name": "Ram Baba",
+      "bio": "When the body breaks down, the root is often energetic. Ram Baba offers healing that is both scientific and spiritual—Shiva Rasayana, personalized herbs, breath-based therapies. He sees where your energy is stuck… and helps it move again.",
+      "specialty": "Ayurvedic Healer, Vedic Intuitive",
+      "offerings": [
+        "Shiva Rasayana",
+        "Personalized Herbs",
+        "Breath-based Therapies"
+      ]
+    },
+    "swamiPratik": {
+      "name": "Mahant Swami Pratik Puri",
+      "bio": "Swami is not teaching methods. He is showing a way of being. In presence with him, many find silence they never knew they craved. He helps you return—not to what was—but to what is real.",
+      "specialty": "Meditation Guide & Wisdom Teacher",
+      "offerings": [
+        "Way of Being",
+        "Presence Work",
+        "Silence & Stillness"
+      ]
+    },
+    "nagaBaba": {
+      "name": "Mahant Savan Bharti Naga Baba",
+      "bio": "For those carrying the weight of generational pain or karmic loops… Naga Baba offers soul-clearing practices that transcend logic. He reads your field, not your face. And in 50 minutes, things move.",
+      "specialty": "Karmic Cleanser, Soul Guide",
+      "offerings": [
+        "Soul-clearing Practices",
+        "Karmic Healing",
+        "Field Reading"
+      ]
+    },
+    "acharyaShyam": {
+      "name": "Acharya Shyam Chetan",
+      "bio": "Stillness is not something to be achieved. It is remembered. Acharya works with advanced practitioners to deepen their path—through subtle yogic kriyas, breath, and inner guidance.",
+      "specialty": "Teacher to Yogis",
+      "offerings": [
+        "Subtle Yogic Kriyas",
+        "Breath Work",
+        "Inner Guidance"
+      ]
+    }
+  },
+  "events": {
+    "title": "Events",
+    "subtitle": "SEPT 15–28  Rüti ZH, Switzerland",
+    "description": "This September, meet India's sacred wisdom keepers in Zurich. Step into a sacred space with Vedic masters, astrologers, and energy healers.",
+    "notWorkshop": "This is not a workshop.",
+    "returnToSoul": "This is a return to something your soul never forgot.",
+    "services": {
+      "vedicConsultations": {
+        "title": "1:1 Vedic Consultations",
+        "subtitle": "Not predictions. Reflections.",
+        "description": "Sit with a master. Ask what you've carried in silence. Walk away with clarity that doesn't fade when the world gets loud."
+      },
+      "energyHealing": {
+        "title": "1:1 Energy Healing",
+        "subtitle": "When the mind can't fix what the soul feels.",
+        "description": "This is for what's stuck. What's heavy. What's unseen. Energy moves where presence is real—and our mentors bring just that."
+      },
+      "panchabhutaRituals": {
+        "title": "Panchabhuta Rituals",
+        "subtitle": "You are made of earth. And water. And flame.",
+        "description": "This sacred ritual brings you back to the five elements. Not to escape—but to remember where you belong."
+      },
+      "yogaBreathwork": {
+        "title": "1:1 Yoga & Breathwork",
+        "subtitle": "Not taught. Transmitted.",
+        "description": "This isn't about poses. It's about presence. Stillness. Breath as prayer. Led by those who live their practice—not just teach it."
+      }
+    }
+  },
+  "blogs": {
+    "innerPeace": {
+      "title": "The Path to Inner Peace",
+      "excerpt": "Discover ancient techniques for finding tranquility in modern life...",
+      "date": "July 20, 2025"
+    },
+    "divinePurpose": {
+      "title": "Awakening Your Divine Purpose",
+      "excerpt": "Learn how to align with your soul's true calling and live authentically...",
+      "date": "July 15, 2025"
+    },
+    "sacredPractices": {
+      "title": "Healing Through Sacred Practices",
+      "excerpt": "Explore time-tested spiritual practices for holistic healing...",
+      "date": "July 10, 2025"
+    },
+    "addictions": {
+      "title": "Freeing yourself from addictions: A spiritual path"
+    },
+    "fear": {
+      "title": "Dealing with fear through mindfulness and clarity"
+    },
+    "counseling": {
+      "title": "The Role of Spiritual Counseling in Mental Health:"
+    },
+    "readMore": "Read More"
+  },
+  "faq": {
+    "difference": {
+      "question": "What is the Divine Mentors event all about?",
+      "answer": "This is a rare opportunity to receive one-on-one, in-person guidance from Indian spiritual masters. It’s not a group class or lecture—it’s a private 50-minute session tailored to your inner journey, emotional healing, and energetic realignment."
+    },
+    "experience": {
+      "question": "Who are the mentors?",
+      "answer": "Our mentors are renowned Vedic healers, astrologers, energy workers, and spiritual teachers from India—each with decades of experience in guiding seekers. They don’t just teach. They live what they offer."
+    },
+    "readiness": {
+      "question": "What happens in a 1:1 session?",
+      "answer": "Each session is uniquely designed based on your needs. It may include energy healing, Vedic astrology consultation, mantra practices, or breathwork. The goal is simple: to remove inner blocks and help you reconnect with your own clarity and purpose."
+    },
+    "sessions": {
+      "question": "Where is the event taking place?",
+      "answer": " The sessions will be held in Rüti, Zürich, Switzerland, from 15th to 28th September."
+    },
+    "professionals": {
+      "question": "Is prior experience in yoga or spirituality required?",
+      "answer": "Not at all. You only need curiosity and openness. The mentors meet you exactly where you are on your journey."
+    },
+    "accommodation": {
+      "question": "How do I book my session?",
+      "answer": "Simply send a message via WhatsApp at +41 79 795 1817 or visit divinementors.com to view mentor availability and secure your slot."
+    }
+  },
+  "pricing": {
+    "seeker": {
+      "name": "Seeker",
+      "price": "$97",
+      "features": ["Full event access", "Group sessions", "Take-home materials", "Community access"]
+    },
+    "disciple": {
+      "name": "Disciple",
+      "price": "$197",
+      "features": ["Everything in Seeker", "1-on-1 mentor session", "Premium materials", "Priority support"]
+    },
+    "divine": {
+      "name": "Divine",
+      "price": "$397",
+      "features": ["Everything in Disciple", "3 private sessions", "Lifetime community access", "Personal spiritual plan"]
+    }
+  },
+  "cta": {
+    "transformationAwaits": "14 Days. 4 Masters. Lifetimes of Wisdom.",
+    "transformationDescription": "Vedic consultations. Energy healing. Yogic breathwork. Sacred rituals.",
+    "bookTransformation": "Secure Your Spot Now",
+    "nextBigStep": "Your Next Big Step Starts Here",
+    "nextBigStepDescription": "Learn more and complete your registration for our transformative events"
+  },
+  "form": {
+    "fullName": "Full Name *",
+    "emailAddress": "Email Address *",
+    "phoneNumber": "Phone Number *",
+    "packageSelection": "Package Selection *",
+    "specialRequirements": "Special Requirements or Questions",
+    "enterFullName": "Enter your full name",
+    "enterEmail": "Enter your email",
+    "enterPhone": "Enter your phone number",
+    "selectPackage": "Select a package",
+    "seekerPackage": "Seeker - $97",
+    "disciplePackage": "Disciple - $197",
+    "divinePackage": "Divine - $397",
+    "specialRequirementsPlaceholder": "Let us know if you have any special requirements or questions...",
+    "completeRegistration": "Complete Registration & Pay"
+  },
+  "footer": {
+    "description": "Guiding souls on their journey to spiritual awakening and personal transformation through ancient wisdom and modern healing practices.",
+    "quickLinks": "Quick Links",
+    "aboutUs": "About Us",
+    "ourMentors": "Our Mentors",
+    "testimonials": "Testimonials",
+    "contactInfo": "Contact Info",
+    "address": "123 Spiritual Way, Pune, Maharashtra, India",
+    "phone": "+91 98765 43210",
+    "email": "connect@divinementors.com",
+    "copyright": "© 2025 Divine Mentors. All rights reserved. | Carefully Crafted by Digitalize The Globe.",
+    "callUs": "Call us at +91 98765 43210"
+  },
+  "about": { 
+    "title": "What If 50 Minutes Could Change Everything?",
+    "description": "This isn't just another event.\n\nThis isn't some feel-good retreat where you sit cross-legged, chant a few mantras, and go back home unchanged.\n\nThis is 14 days. 4 Indian masters.\nEach with decades of experience.\nEach trained in ancient Vedic sciences the West barely touches.\n\nFrom the hidden valleys of the Himalayas to the heart of Zurich - these teachers don't come to entertain.\nThey come to transform."
+  },
+  "benefits": {
+    "title": "What You'll Gain",
+    "subtitle": "Transform every aspect of your spiritual journey with profound, lasting change",
+    "lifePurpose": {
+      "title": "Crystal Clear Life Purpose",
+      "description": "Discover your authentic dharma and align your career, relationships, and daily choices with your soul's true calling through guided self-inquiry and meditation."
+    },
+    "emotionalMastery": {
+      "title": "Emotional Mastery & Resilience",
+      "description": "Learn powerful techniques to transform stress, anxiety, and overwhelm into sources of strength and wisdom using ancient emotional alchemy practices."
+    },
+    "mentalClarity": {
+      "title": "Enhanced Mental Clarity & Focus",
+      "description": "Develop laser-sharp concentration and decision-making abilities through specialized pranayama and mindfulness techniques proven by neuroscience."
+    },
+    "successAbundance": {
+      "title": "Conscious Success & Abundance",
+      "description": "Integrate spiritual principles with practical success strategies to create wealth and achievement that align with your highest values and purpose."
+    },
+    "leadership": {
+      "title": "Authentic Leadership Presence",
+      "description": "Cultivate the charisma, intuition, and influence that comes from inner alignment, enabling you to lead with both power and compassion."
+    },
+    "relationships": {
+      "title": "Harmonious Relationships",
+      "description": "Master the art of conscious communication and emotional intelligence to create deeper, more fulfilling connections in all areas of your life."
+    }
+  },
+  "common": {
+    "learnMore": "Learn More",
+    "readMore": "Read More",
+    "registerNow": "Register Now",
+    "contactUs": "Contact Us",
+    "website": "Website"
+  }
+} 

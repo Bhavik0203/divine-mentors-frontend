@@ -1,0 +1,286 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "about": "À propos",
+    "mentors": "Mentors",
+    "events": "Événements",
+    "blog": "Blog",
+    "contact": "Contact",
+    "contactUs": "Contactez-nous",
+    "bookNow": "Réserver maintenant"
+  },
+  "hero": {
+    "title": "Rencontrez les anciens maîtres de l'Inde en personne. À Zurich.",
+    "subtitle": "Du 15 au 28 septembre, les gardiens de la sagesse sacrée de l'Inde arrivent pour des sessions individuelles qui transforment votre énergie et votre âme.",
+    "description": "50 min · Privé · CHF 150 - 300 par session",
+    "cta": "Réservez votre session de guérison 1:1 →",
+    "authenticWisdom": "Sagesse spirituelle authentique"
+  },
+  "painPoints": {
+    "title": "Transformez votre état d'esprit et libérez votre véritable potentiel",
+    "subtitle": "Apprenez la sagesse ancienne de mentors spirituels expérimentés",
+    "description": "Construisez des connexions durables avec des personnes partageant les mêmes idées",
+    "practice": "Développez des outils pratiques pour la pratique spirituelle quotidienne",
+    "beliefs": "Surmontez les croyances limitantes et les blocages émotionnels",
+    "purpose": "Découvrez le but de votre vie et votre appel divin"
+  },
+  "offerings": {
+    "title": "Ce que nous offrons",
+    "authenticGuidance": {
+      "title": "Guidance spirituelle authentique",
+      "description": "Transmission directe de sagesse par des mentors basés sur la lignée avec des décennies d'expérience dans les traditions indiennes classiques."
+    },
+    "personalizedTransformation": {
+      "title": "Transformation personnalisée",
+      "description": "Évaluation individuelle de votre parcours spirituel avec des pratiques personnalisées adaptées à votre chemin unique d'auto-découverte."
+    },
+    "scienceBackedMethods": {
+      "title": "Méthodes soutenues par la science",
+      "description": "Techniques éprouvées incluant le pranayama, la méditation et la psychologie spirituelle, validées par la recherche clinique comme alternatives efficaces aux approches traditionnelles."
+    },
+    "modernLifeIntegration": {
+      "title": "Intégration dans la vie moderne",
+      "description": "Outils pratiques pour la gestion du stress, l'intelligence émotionnelle et les qualités de leadership qui s'intègrent harmonieusement dans votre vie professionnelle et personnelle."
+    },
+    "premiumSwissExperience": {
+      "title": "Expérience suisse premium",
+      "description": "Cadre exclusif dans le paysage époustouflant de la Suisse, assurant tranquillité et concentration pour un travail spirituel profond."
+    },
+    "lifelongMentorship": {
+      "title": "Mentorat à vie",
+      "description": "Construire des connexions durables avec des mentors authentiques pour un guidage continu sur votre parcours spirituel."
+    }
+  },
+  "mentors": {
+    "title": "Rencontrez nos mentors divins",
+    "subtitle": "Apprenez des maîtres qui ont dédié leur vie à la sagesse spirituelle",
+    "specialty": "Spécialité :",
+    "bookSession": "Réserver une session",
+    "ramBaba": {
+      "name": "Ram Baba",
+      "bio": "Quand le corps se décompose, la racine est souvent énergétique. Ram Baba offre une guérison qui est à la fois scientifique et spirituelle—Shiva Rasayana, herbes personnalisées, thérapies basées sur la respiration. Il voit où votre énergie est bloquée… et l'aide à bouger à nouveau.",
+      "specialty": "Guérisseur ayurvédique, intuitif védique",
+      "offerings": [
+        "Shiva Rasayana",
+        "Herbes personnalisées",
+        "Thérapies basées sur la respiration"
+      ]
+    },
+    "swamiPratik": {
+      "name": "Mahant Swami Pratik Puri",
+      "bio": "Swami n'enseigne pas des méthodes. Il montre une façon d'être. En sa présence, beaucoup trouvent le silence qu'ils ne savaient pas qu'ils désiraient. Il vous aide à revenir—pas à ce qui était—mais à ce qui est réel.",
+      "specialty": "Guide de méditation et enseignant de sagesse",
+      "offerings": [
+        "Façon d'être",
+        "Travail de présence",
+        "Silence et quiétude"
+      ]
+    },
+    "nagaBaba": {
+      "name": "Mahant Savan Bharti Naga Baba",
+      "bio": "Pour ceux qui portent le poids de la douleur générationnelle ou des boucles karmiques… Naga Baba offre des pratiques de nettoyage de l'âme qui transcendent la logique. Il lit votre champ, pas votre visage. Et en 50 minutes, les choses bougent.",
+      "specialty": "Nettoyeur karmique, guide de l'âme",
+      "offerings": [
+        "Pratiques de nettoyage de l'âme",
+        "Guérison karmique",
+        "Lecture du champ"
+      ]
+    },
+    "acharyaShyam": {
+      "name": "Acharya Shyam Chetan",
+      "bio": "La quiétude n'est pas quelque chose à atteindre. Elle est rappelée. Acharya travaille avec des pratiquants avancés pour approfondir leur chemin—à travers des kriyas yogiques subtils, la respiration et le guidage intérieur.",
+      "specialty": "Enseignant des yogis",
+      "offerings": [
+        "Kriyas yogiques subtils",
+        "Travail respiratoire",
+        "Guidage intérieur"
+      ]
+    }
+  },
+  "events": {
+    "title": "Événements",
+    "subtitle": "15-28 SEPT  Rüti ZH, Suisse",
+    "description": "Ce septembre, rencontrez les gardiens de sagesse sacrée de l'Inde à Zurich. Entrez dans un espace sacré avec des maîtres védiques, astrologues et guérisseurs énergétiques.",
+    "notWorkshop": "Ce n'est pas un atelier.",
+    "returnToSoul": "C'est un retour vers quelque chose que votre âme n'a jamais oublié.",
+    "services": {
+      "vedicConsultations": {
+        "title": "Consultations védiques 1:1",
+        "subtitle": "Pas de prédictions. Des réflexions.",
+        "description": "Asseyez-vous avec un maître. Demandez ce que vous avez porté en silence. Repartez avec une clarté qui ne s'estompe pas quand le monde devient bruyant."
+      },
+      "energyHealing": {
+        "title": "Guérison énergétique 1:1",
+        "subtitle": "Quand l'esprit ne peut pas réparer ce que l'âme ressent.",
+        "description": "C'est pour ce qui est coincé. Ce qui est lourd. Ce qui est invisible. L'énergie bouge là où la présence est réelle—et nos mentors apportent exactement cela."
+      },
+      "panchabhutaRituals": {
+        "title": "Rituels Panchabhuta",
+        "subtitle": "Vous êtes fait de terre. Et d'eau. Et de flamme.",
+        "description": "Ce rituel sacré vous ramène aux cinq éléments. Pas pour échapper—mais pour vous souvenir d'où vous appartenez."
+      },
+      "yogaBreathwork": {
+        "title": "Yoga et travail respiratoire 1:1",
+        "subtitle": "Pas enseigné. Transmis.",
+        "description": "Ce n'est pas à propos des postures. C'est à propos de la présence. De la quiétude. De la respiration comme prière. Dirigé par ceux qui vivent leur pratique—pas seulement l'enseignent."
+      }
+    }
+  },
+  "blogs": {
+    "innerPeace": {
+      "title": "Le chemin vers la paix intérieure",
+      "excerpt": "Découvrez des techniques anciennes pour trouver la tranquillité dans la vie moderne...",
+      "date": "20 juillet 2025"
+    },
+    "divinePurpose": {
+      "title": "Éveiller votre but divin",
+      "excerpt": "Apprenez à vous aligner avec l'appel véritable de votre âme et vivre authentiquement...",
+      "date": "15 juillet 2025"
+    },
+    "sacredPractices": {
+      "title": "Guérison par les pratiques sacrées",
+      "excerpt": "Explorez des pratiques spirituelles éprouvées par le temps pour une guérison holistique...",
+      "date": "10 juillet 2025"
+    },
+    "addictions": {
+      "title": "Se libérer des addictions : Un chemin spirituel"
+    },
+    "fear": {
+      "title": "Gérer la peur par la pleine conscience et la clarté"
+    },
+    "counseling": {
+      "title": "Le rôle du conseil spirituel dans la santé mentale :"
+    },
+    "readMore": "Lire plus"
+  },
+  "faq": {
+    "what": {
+      "question": "De quoi s'agit-il dans l'événement Divine Mentors ?",
+      "answer": "C'est une rare opportunité de recevoir un guidage personnel et direct de maîtres spirituels indiens. Ce n'est pas une classe de groupe ou une conférence—c'est une session privée de 50 minutes adaptée à votre voyage intérieur, guérison émotionnelle et réalignement énergétique."
+    },
+    "mentors": {
+      "question": "Qui sont les mentors ?",
+      "answer": "Nos mentors sont des guérisseurs védiques, astrologues, travailleurs énergétiques et enseignants spirituels renommés de l'Inde—chacun avec des décennies d'expérience dans la guidance des chercheurs. Ils n'enseignent pas seulement. Ils vivent ce qu'ils offrent."
+    },
+    "session": {
+      "question": "Que se passe-t-il dans une session 1:1 ?",
+      "answer": "Chaque session est conçue de manière unique basée sur vos besoins. Elle peut inclure la guérison énergétique, la consultation d'astrologie védique, les pratiques de mantras ou le travail de respiration. L'objectif est simple : éliminer les blocages intérieurs et vous aider à vous reconnecter avec votre propre clarté et votre but."
+    },
+    "location": {
+      "question": "Où se déroule l'événement ?",
+      "answer": "Les sessions se dérouleront à Rüti, Zürich, Suisse, du 15 au 28 septembre."
+    },
+    "cost": {
+      "question": "Combien cela coûte-t-il ?",
+      "answer": "Chaque session de 50 minutes coûte CHF 150-300. Cela inclut un accès direct à un maître indien hautement expérimenté—quelque chose rarement disponible en dehors de l'Inde."
+    },
+    "religious": {
+      "question": "Est-ce un événement religieux ?",
+      "answer": "Non. C'est un événement spirituel ancré dans la sagesse védique ancienne. Il est ouvert à tous—peu importe la religion, l'origine ou les croyances."
+    },
+    "choose": {
+      "question": "Puis-je choisir quel mentor je rencontre ?",
+      "answer": "Oui. Une fois que vous réservez votre session, vous pouvez sélectionner dans notre liste de mentors disponibles basée sur votre intention de guérison—que ce soit la libération émotionnelle, la clarté, le bien-être physique ou l'alignement énergétique."
+    },
+    "experience": {
+      "question": "Une expérience préalable en yoga ou spiritualité est-elle requise ?",
+      "answer": "Pas du tout. Vous n'avez besoin que de curiosité et d'ouverture. Les mentors vous rencontrent exactement où vous en êtes dans votre voyage."
+    },
+    "booking": {
+      "question": "Comment réserver ma session ?",
+      "answer": "Envoyez simplement un message via WhatsApp au +41 79 795 1817 ou visitez divinementors.com pour voir la disponibilité des mentors et sécuriser votre créneau."
+    }
+  },
+  "pricing": {
+    "seeker": {
+      "name": "Chercheur",
+      "price": "97€",
+      "features": ["Accès complet à l'événement", "Sessions de groupe", "Matériel à emporter", "Accès à la communauté"]
+    },
+    "disciple": {
+      "name": "Disciple",
+      "price": "197€",
+      "features": ["Tout dans Chercheur", "Session mentor 1-sur-1", "Matériel premium", "Support prioritaire"]
+    },
+    "divine": {
+      "name": "Divin",
+      "price": "397€",
+      "features": ["Tout dans Disciple", "3 sessions privées", "Accès communautaire à vie", "Plan spirituel personnel"]
+    }
+  },
+  "cta": {
+    "transformationAwaits": "Votre transformation vous attend",
+    "transformationDescription": "Ne laissez pas passer un autre jour à vivre en dessous de votre potentiel. Rejoignez des milliers qui ont découvert leur but divin.",
+    "bookTransformation": "Réservez votre transformation maintenant",
+    "nextBigStep": "Votre prochaine grande étape commence ici",
+    "nextBigStepDescription": "En savoir plus et compléter votre inscription pour nos événements transformateurs"
+  },
+  "form": {
+    "fullName": "Nom complet *",
+    "emailAddress": "Adresse e-mail *",
+    "phoneNumber": "Numéro de téléphone *",
+    "packageSelection": "Sélection de forfait *",
+    "specialRequirements": "Exigences spéciales ou questions",
+    "enterFullName": "Entrez votre nom complet",
+    "enterEmail": "Entrez votre e-mail",
+    "enterPhone": "Entrez votre numéro de téléphone",
+    "selectPackage": "Sélectionnez un forfait",
+    "seekerPackage": "Chercheur - 97€",
+    "disciplePackage": "Disciple - 197€",
+    "divinePackage": "Divin - 397€",
+    "specialRequirementsPlaceholder": "Faites-nous savoir si vous avez des exigences spéciales ou des questions...",
+    "completeRegistration": "Compléter l'inscription et payer"
+  },
+  "footer": {
+    "description": "Guider les âmes dans leur voyage vers l'éveil spirituel et la transformation personnelle à travers la sagesse ancienne et les pratiques de guérison modernes.",
+    "quickLinks": "Liens rapides",
+    "aboutUs": "À propos de nous",
+    "ourMentors": "Nos mentors",
+    "testimonials": "Témoignages",
+    "contactInfo": "Informations de contact",
+    "address": "123 Chemin Spirituel, Pune, Maharashtra, Inde",
+    "phone": "+91 98765 43210",
+    "email": "connect@divinementors.com",
+    "copyright": "© 2025 Divine Mentors. Tous droits réservés. | Soigneusement créé par Digitalize The Globe.",
+    "callUs": "Appelez-nous au +91 98765 43210"
+  },
+  "about": {
+    "title": "Et si 50 minutes pouvaient tout changer ?",
+    "description": "Ce n'est pas juste un autre événement.\n\nCe n'est pas une retraite de bien-être où vous vous asseyez en tailleur, chantez quelques mantras et rentrez chez vous inchangé.\n\nC'est 14 jours. 4 maîtres indiens.\nChacun avec des décennies d'expérience.\nChacun formé aux sciences védiques anciennes que l'Occident touche à peine.\n\nDes vallées cachées de l'Himalaya au cœur de Zurich—ces enseignants ne viennent pas pour divertir.\nIls viennent pour transformer."
+  },
+  "benefits": {
+    "title": "Ce que vous gagnerez",
+    "subtitle": "Transformez chaque aspect de votre voyage spirituel avec un changement profond et durable",
+    "lifePurpose": {
+      "title": "But de vie cristallin",
+      "description": "Découvrez votre dharma authentique et alignez votre carrière, vos relations et vos choix quotidiens avec le véritable appel de votre âme grâce à l'auto-enquête guidée et à la méditation."
+    },
+    "emotionalMastery": {
+      "title": "Maîtrise émotionnelle et résilience",
+      "description": "Apprenez des techniques puissantes pour transformer le stress, l'anxiété et l'accablement en sources de force et de sagesse en utilisant des pratiques anciennes d'alchimie émotionnelle."
+    },
+    "mentalClarity": {
+      "title": "Clarté mentale et concentration améliorées",
+      "description": "Développez des capacités de concentration et de prise de décision laser-sharp grâce à des techniques spécialisées de pranayama et de pleine conscience prouvées par la neuroscience."
+    },
+    "successAbundance": {
+      "title": "Succès conscient et abondance",
+      "description": "Intégrez les principes spirituels avec des stratégies de succès pratiques pour créer richesse et accomplissement qui s'alignent avec vos valeurs et votre but les plus élevés."
+    },
+    "leadership": {
+      "title": "Présence de leadership authentique",
+      "description": "Cultivez le charisme, l'intuition et l'influence qui vient de l'alignement intérieur, vous permettant de diriger avec puissance et compassion."
+    },
+    "relationships": {
+      "title": "Relations harmonieuses",
+      "description": "Maîtrisez l'art de la communication consciente et de l'intelligence émotionnelle pour créer des connexions plus profondes et plus épanouissantes dans tous les domaines de votre vie."
+    }
+  },
+  "common": {
+    "learnMore": "En savoir plus",
+    "readMore": "Lire plus",
+    "registerNow": "S'inscrire maintenant",
+    "contactUs": "Contactez-nous",
+    "website": "Site web"
+  }
+} 
